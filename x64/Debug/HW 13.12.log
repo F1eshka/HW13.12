@@ -1,0 +1,4 @@
+﻿  HW 13.12.cpp
+C:\Users\Rog\source\repos\HW 13.12\HW 13.12.cpp(337,13): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\Rog\source\repos\HW 13.12\HW 13.12.cpp(626,23): warning C4305: аргумент: усечение из "int" в "bool"
+  HW 13.12.vcxproj -> C:\Users\Rog\source\repos\HW 13.12\x64\Debug\HW 13.12.exe
